@@ -1,0 +1,18 @@
+.ipynb_checkpoints
+.virtual_documents
+.DS_Store
+
+# Ignore Python bytecode files
+__pycache__/
+
+secrets.yaml
+todos.txt
+
+costing_out/
+costing_qualtrics/
+summary_excels/
+# Ignore CSV and Excel files
+*.csv
+*.xlsx
+
+get_qualtrics_survey_data.ipynb
